@@ -1,4 +1,10 @@
 #!/bin/bash
+#####################################
+#  koyu's M$ Teams cache cleaner    #
+#####################################
+# Because Microsoft has good ideas, #
+#    but executes them poorly       #
+#####################################
 killall -9 teams
 sleep 1
 rm -rf $HOME/.var/app/com.microsoft.Teams/cache/
