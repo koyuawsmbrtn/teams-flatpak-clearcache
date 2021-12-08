@@ -3,7 +3,7 @@
 #  koyu's M$ Teams cache cleaner    #
 #####################################
 # Because Microsoft has good ideas, #
-#    but executes them poorly       #
+#     but executes them poorly      #
 #####################################
 killall -9 teams
 sleep 1
